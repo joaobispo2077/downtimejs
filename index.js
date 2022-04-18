@@ -1,3 +1,5 @@
+#!/usr/bin/env node shebang
+
 import chalk from "chalk";
 import inquirer from "inquirer";
 
