@@ -1,10 +1,10 @@
 {
   "name": "downtimejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A module to calculate uptime of your application.",
   "main": "index.js",
   "type": "module",
-  "private": false, 
+  "private": false,
   "bin": "index.js",
   "license": "MIT",
   "author": "João Bispo <joaobispo2077@gmail.com> (https://github.com/joaobispo2077)",
@@ -18,7 +18,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/joaobispo2077/downtimejs"
-  }, 
+  },
   "keywords": [
     "CLI",
     "five nines",
