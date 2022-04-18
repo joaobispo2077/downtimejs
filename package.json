@@ -4,11 +4,8 @@
   "description": "A module to calculate uptime of your application.",
   "main": "index.js",
   "type": "module",
-  "private": false,
+  "private": false, 
   "bin": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "license": "MIT",
   "author": "João Bispo <joaobispo2077@gmail.com> (https://github.com/joaobispo2077)",
   "contributors": [
@@ -18,6 +15,20 @@
       "url": "https://github.com/vivianequeiroz"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaobispo2077/downtimejs"
+  }, 
+  "keywords": [
+    "CLI",
+    "five nines",
+    "fault tolerance",
+    "uptime",
+    "downtime"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "chalk": "^5.0.1",
     "inquirer": "^8.2.2"
