@@ -1,6 +1,6 @@
 {
   "name": "downtimejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to calculate uptime of your application.",
   "main": "index.js",
   "type": "module",
