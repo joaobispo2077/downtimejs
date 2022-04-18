@@ -1,0 +1,12 @@
+{
+  "name": "downtimejs",
+  "version": "1.0.0",
+  "description": "A module to calculate uptime of your application.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
