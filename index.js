@@ -33,7 +33,7 @@ async function main() {
   log(chalk.green("Hello! Calculate the uptime of your application."));
   log(
     chalk.green(
-      "Input the downtime in hours (24 format), minutes (60 format) and seconds (60 format)"
+      "Input the downtime in hours, minutes (60 format) and seconds (60 format)"
     )
   );
 
